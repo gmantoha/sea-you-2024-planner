@@ -1,0 +1,554 @@
+{
+  "festival": {
+    "Friday": {
+      "STAGE 1": [
+        {
+          "act": "DIMITRI ROSSI B2B ALEX NEVIL",
+          "time": "14:00-15:00"
+        },
+        {
+          "act": "ANNE FRIEDA",
+          "time": "15:00-16:00"
+        },
+        {
+          "act": "ZAKARI&BLANGE",
+          "time": "16:00-17:00"
+        },
+        {
+          "act": "HECKMAN",
+          "time": "17:00-18:30"
+        },
+        {
+          "act": "TUBE & BERGER",
+          "time": "18:30-20:30"
+        },
+        {
+          "act": "LARI LUKE",
+          "time": "20:30-22:30"
+        },
+        {
+          "act": "HBZ",
+          "time": "22:30-00:00"
+        }
+      ],
+      "STAGE 2": [
+        {
+          "act": "AESCHLIMANN",
+          "time": "14:00-15:00"
+        },
+        {
+          "act": "DANIEL BOON VS. BASSTRONAUTEN",
+          "time": "15:00-16:30"
+        },
+        {
+          "act": "STOKED",
+          "time": "16:30-18:00"
+        },
+        {
+          "act": "PAN-POT",
+          "time": "18:00-20:00"
+        },
+        {
+          "act": "LILLY PALMER",
+          "time": "20:00-22:00"
+        },
+        {
+          "act": "ADAM BEYER",
+          "time": "22:00-00:00"
+        }
+      ],
+      "STAGE 3": [
+        {
+          "act": "MISS TRICKY",
+          "time": "14:00-15:15"
+        },
+        {
+          "act": "ALICIA HAHN",
+          "time": "15:15-16:30"
+        },
+        {
+          "act": "MORITZ HOFBAUER LIVE",
+          "time": "16:30-18:00"
+        },
+        {
+          "act": "WORAKLS ORCHESTRA",
+          "time": "18:20-19:50"
+        },
+        {
+          "act": "DOM DOLLA",
+          "time": "20:15-22:00"
+        },
+        {
+          "act": "BORIS BREJCHA",
+          "time": "22:00-00:00"
+        }
+      ],
+      "STAGE 4": [
+        {
+          "act": "NINO LOCKSEN",
+          "time": "14:00-15:30"
+        },
+        {
+          "act": "MURPHY HAZE",
+          "time": "15:30-17:00"
+        },
+        {
+          "act": "CLOUD7",
+          "time": "17:00-18:00"
+        },
+        {
+          "act": "JILAX",
+          "time": "18:00-19:00"
+        },
+        {
+          "act": "REALITY TEST",
+          "time": "19:00-20:00"
+        },
+        {
+          "act": "NEELIX",
+          "time": "20:00-21:30"
+        },
+        {
+          "act": "VEGAS",
+          "time": "21:30-22:45"
+        },
+        {
+          "act": "ASTRIX",
+          "time": "22:45-00:00"
+        }
+      ],
+      "STAGE 5": [
+        {
+          "act": "FJUSHA",
+          "time": "14:00-15:30"
+        },
+        {
+          "act": "KUKO",
+          "time": "15:30-17:00"
+        },
+        {
+          "act": "CALLUSH",
+          "time": "17:00-19:00"
+        },
+        {
+          "act": "SOMEWHEN",
+          "time": "19:00-21:00"
+        },
+        {
+          "act": "KOBOSIL B2B CLARA CUVÉ",
+          "time": "21:00-00:00"
+        }
+      ]
+    },
+    "Saturday": {
+      "STAGE 1": [
+        {
+          "act": "S.D.M.W.",
+          "time": "11:00-12:00"
+        },
+        {
+          "act": "MORITZ HAUER",
+          "time": "12:00-13:00"
+        },
+        {
+          "act": "MASCH",
+          "time": "13:00-14:00"
+        },
+        {
+          "act": "AIR TORN",
+          "time": "14:00-15:00"
+        },
+        {
+          "act": "OLIVER SYLO",
+          "time": "15:00-16:00"
+        },
+        {
+          "act": "MARC WERNER",
+          "time": "16:00-17:30"
+        },
+        {
+          "act": "VIZE",
+          "time": "17:30-19:00"
+        },
+        {
+          "act": "AKA AKA",
+          "time": "19:00-21:00"
+        },
+        {
+          "act": "MAUSIO",
+          "time": "21:00-22:30"
+        },
+        {
+          "act": "GESTÖRT ABER GEIL",
+          "time": "22:30-00:00"
+        }
+      ],
+      "STAGE 2": [
+        {
+          "act": "LUCA FIASCO",
+          "time": "11:00-12:00"
+        },
+        {
+          "act": "CHRIS VERON",
+          "time": "12:00-13:00"
+        },
+        {
+          "act": "M.Y.P.D.",
+          "time": "13:00-14:00"
+        },
+        {
+          "act": "LE FILOU",
+          "time": "14:00-15:00"
+        },
+        {
+          "act": "HEERHORST",
+          "time": "15:00-16:15"
+        },
+        {
+          "act": "LEVT",
+          "time": "16:15-17:30"
+        },
+        {
+          "act": "MARK DEKODA",
+          "time": "17:30-19:00"
+        },
+        {
+          "act": "XENIA",
+          "time": "19:00-20:30"
+        },
+        {
+          "act": "LEN FAKI",
+          "time": "20:30-22:00"
+        },
+        {
+          "act": "REINIER ZONNEVELD *LIVE*",
+          "time": "22:00-00:00"
+        }
+      ],
+      "STAGE 3": [
+        {
+          "act": "ALEX RANDAL",
+          "time": "11:00-12:00"
+        },
+        {
+          "act": "DJ FROM THE CRYPT",
+          "time": "12:00-13:00"
+        },
+        {
+          "act": "SO DENN",
+          "time": "13:00-14:00"
+        },
+        {
+          "act": "ILL-BOY PHIL",
+          "time": "14:00-15:00"
+        },
+        {
+          "act": "WILL CLARKE",
+          "time": "15:00-17:00"
+        },
+        {
+          "act": "FISHER",
+          "time": "17:00-18:30"
+        },
+        {
+          "act": "MASSANO",
+          "time": "18:30-20:15"
+        },
+        {
+          "act": "NORA EN PURE",
+          "time": "20:15-22:15"
+        },
+        {
+          "act": "MATT SASSARI",
+          "time": "22:15-00:00"
+        }
+      ],
+      "STAGE 4": [
+        {
+          "act": "GLUTEX",
+          "time": "11:00-12:30"
+        },
+        {
+          "act": "SCHAMELEON",
+          "time": "12:30-14:00"
+        },
+        {
+          "act": "AUDIOMATIC",
+          "time": "14:00-15:00"
+        },
+        {
+          "act": "BENZOO",
+          "time": "15:00-16:00"
+        },
+        {
+          "act": "HATIKWA",
+          "time": "16:00-17:00"
+        },
+        {
+          "act": "LIQUID SOUL",
+          "time": "17:00-18:00"
+        },
+        {
+          "act": "SCHRITTMACHER",
+          "time": "18:00-19:00"
+        },
+        {
+          "act": "RANJI",
+          "time": "19:00-20:00"
+        },
+        {
+          "act": "TRIPICAL NOTE",
+          "time": "20:00-21:00"
+        },
+        {
+          "act": "INTERACTIVE NOISE",
+          "time": "21:00-22:00"
+        },
+        {
+          "act": "SI-MOON",
+          "time": "22:00-23:00"
+        },
+        {
+          "act": "BLISS",
+          "time": "23:00-00:00"
+        }
+      ],
+      "STAGE 5": [
+        {
+          "act": "NASTARAN",
+          "time": "11:00-13:00"
+        },
+        {
+          "act": "KIM SHE",
+          "time": "13:00-15:00"
+        },
+        {
+          "act": "PART TIME KILLER",
+          "time": "15:00-17:00"
+        },
+        {
+          "act": "SHLØMO",
+          "time": "17:00-18:30"
+        },
+        {
+          "act": "ADRIÁN MILLS B2B PRADA2000",
+          "time": "18:30-20:00"
+        },
+        {
+          "act": "TRYM",
+          "time": "20:00-22:00"
+        },
+        {
+          "act": "DAX J B2B SHDW",
+          "time": "22:00-00:00"
+        }
+      ],
+      "STAGE 7": [
+        {
+          "act": "SHUJA",
+          "time": "11:00-13:00"
+        },
+        {
+          "act": "NICO HALFMANN (LIVE SAXOPHONE) & GUIDO BOURLEY",
+          "time": "13:00-15:00"
+        },
+        {
+          "act": "LISA MAÉ (LIVE GESANG + GITARRE)",
+          "time": "15:00-16:15"
+        },
+        {
+          "act": "DAVE LEON & JOHANNA (GEIGE / VIOLINE) & BENE BOLL (CELLO)",
+          "time": "16:15-18:15"
+        },
+        {
+          "act": "DAN RUBELL",
+          "time": "18:15-20:15"
+        },
+        {
+          "act": "DRÜCKEBERGER (LIVE TROMPETE)",
+          "time": "20:15-22:15"
+        },
+        {
+          "act": "ALEX BLEIZIFFER LIVE-SET (PIANO + VOCALS) & FRANÇOIS RENGÈRE",
+          "time": "22:15-00:00"
+        }
+      ]
+    },
+    "Sunday": {
+      "STAGE 1": [
+        {
+          "act": "ARTILETTE",
+          "time": "11:00-12:00"
+        },
+        {
+          "act": "ROSELLE",
+          "time": "12:00-13:00"
+        },
+        {
+          "act": "IF I?",
+          "time": "13:00-14:00"
+        },
+        {
+          "act": "OLY MC",
+          "time": "14:00-15:00"
+        },
+        {
+          "act": "OLIVER M.",
+          "time": "15:00-16:00"
+        },
+        {
+          "act": "JULIET SIKORA",
+          "time": "16:00-17:30"
+        },
+        {
+          "act": "YOUNOTUS",
+          "time": "17:30-19:00"
+        },
+        {
+          "act": "OSTBLOCKSCHLAMPEN *LIVE*",
+          "time": "19:00-20:30"
+        },
+        {
+          "act": "ALLE FARBEN",
+          "time": "20:30-22:30"
+        }
+      ],
+      "STAGE 2": [
+        {
+          "act": "THUG-L",
+          "time": "11:00-12:00"
+        },
+        {
+          "act": "BAJAN K",
+          "time": "12:00-13:00"
+        },
+        {
+          "act": "STEEVEN B.",
+          "time": "13:00-14:00"
+        },
+        {
+          "act": "FISCHMONGER",
+          "time": "14:00-15:00"
+        },
+        {
+          "act": "ALFRED HEINRICHS",
+          "time": "15:00-16:45"
+        },
+        {
+          "act": "NUSHA",
+          "time": "16:45-18:30"
+        },
+        {
+          "act": "KLAUDIA GAWLAS",
+          "time": "18:30-20:30"
+        },
+        {
+          "act": "BOYS NOIZE",
+          "time": "20:30-22:30"
+        }
+      ],
+      "STAGE 3": [
+        {
+          "act": "AZZURO",
+          "time": "11:00-12:00"
+        },
+        {
+          "act": "JEROME LE BARON",
+          "time": "12:00-13:00"
+        },
+        {
+          "act": "DENIZ BILGIC B2B EROS BILGIC",
+          "time": "13:00-14:30"
+        },
+        {
+          "act": "RODRIGUEZ JR. *LIVE*",
+          "time": "14:30-16:00"
+        },
+        {
+          "act": "HUGEL",
+          "time": "16:00-17:30"
+        },
+        {
+          "act": "STEPHAN BODZIN *LIVE*",
+          "time": "17:30-19:00"
+        },
+        {
+          "act": "SVEN VÄTH",
+          "time": "19:00-20:45"
+        },
+        {
+          "act": "VINTAGE CULTURE",
+          "time": "20:45-22:30"
+        }
+      ],
+      "STAGE 4": [
+      {
+        "act": "VIPS CALLI",
+        "time": "11:00-12:30"
+      },
+      {
+        "act": "EBRAX",
+        "time": "12:30-14:00"
+      },
+      {
+        "act": "ATYPE",
+        "time": "14:00-15:00"
+      },
+      {
+        "act": "PHAXE",
+        "time": "15:00-16:30"
+      },
+      {
+        "act": "OMIKI",
+        "time": "16:30-18:00"
+      },
+      {
+        "act": "GHOST RIDER",
+        "time": "18:00-19:30"
+      },
+      {
+        "act": "SYMPHONIX",
+        "time": "19:30-20:30"
+      },
+      {
+        "act": "FABIO FUSCO & JOICEY",
+        "time": "20:30-21:30"
+      },
+      {
+        "act": "TERRA",
+        "time": "21:30-22:30"
+      }
+    ],
+    "STAGE 5": [
+      {
+        "act": "ROAN",
+        "time": "11:00-12:30"
+      },
+      {
+        "act": "JAKOB B2B ENO",
+        "time": "12:30-14:00"
+      },
+      {
+        "act": "CLOUDY",
+        "time": "14:00-16:00"
+      },
+      {
+        "act": "KALTE LIEBE *LIVE*",
+        "time": "16:00-17:15"
+      },
+      {
+        "act": "I HATE MODELS",
+        "time": "17:15-19:15"
+      },
+      {
+        "act": "999999999",
+        "time": "19:15-20:45"
+      },
+      {
+        "act": "CHARLIE SPARKS B2B PARFAIT",
+        "time": "20:45-22:30"
+      }
+    ]
+  }
+} 
+}

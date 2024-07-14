@@ -1,0 +1,48 @@
+<div class="timetable">
+    <!-- Filter input -->
+    <mat-form-field>
+        <mat-label>Filter Acts</mat-label>
+        <mat-chip-grid #chipGrid aria-label="Act selection">
+            <mat-chip-row *ngFor="let act of selectedActs()"
+                          (removed)="removeAct(act)">
+                {{act}}
+                <button matChipRemove [attr.aria-label]="'remove ' + act">
+                    <mat-icon>cancel</mat-icon>
+                </button>
+            </mat-chip-row>
+            <input placeholder="New act..."
+                   [matChipInputFor]="chipGrid"
+                   [matAutocomplete]="auto"
+                   [formControl]="actCtrl">
+        </mat-chip-grid>
+        <mat-autocomplete #auto="matAutocomplete" (optionSelected)="selected($event)">
+            <mat-option *ngFor="let act of filteredActs()" [value]="act">
+                {{act}}
+            </mat-option>
+        </mat-autocomplete>
+    </mat-form-field>
+
+    <button mat-raised-button color="primary" (click)="clearActs()">Clear</button>
+
+    <!-- Table -->
+    <table mat-table [dataSource]="filteredActsData()" class="mat-elevation-z8">
+        <ng-container matColumnDef="day">
+            <th mat-header-cell *matHeaderCellDef>Day</th>
+            <td mat-cell *matCellDef="let act">{{ act.day }}</td>
+        </ng-container>
+        <ng-container matColumnDef="time">
+            <th mat-header-cell *matHeaderCellDef>Time</th>
+            <td mat-cell *matCellDef="let act">{{ act.time }}</td>
+        </ng-container>
+        <ng-container matColumnDef="stage">
+            <th mat-header-cell *matHeaderCellDef>Stage</th>
+            <td mat-cell *matCellDef="let act">{{ act.stage }}</td>
+        </ng-container>
+        <ng-container matColumnDef="act">
+            <th mat-header-cell *matHeaderCellDef>Act</th>
+            <td mat-cell *matCellDef="let act">{{ act.act }}</td>
+        </ng-container>
+        <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+        <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+    </table>
+</div>
